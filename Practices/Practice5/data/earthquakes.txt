@@ -1,0 +1,58 @@
+Indonesia, 3.5
+Australia, 3.3
+Colombia, 4.1
+Chile, 3.6
+Afghanistan, 3.9
+Mexico, 3.4
+Mexico, 3.3
+Costa Rica, 3.6
+North Pacific Ocean, 4.1
+Turkey, 3.1
+Mexico, 3.5
+Mexico, 3.2
+North Pacific Ocean, 5.6
+Mexico, 3.3
+South Pacific Ocean, 3.2
+Mexico, 3.5
+Mexico, 3.5
+Turkey, 3.0
+Japan, 4.4
+Mexico, 3.2
+Japan, 4.6
+USA, 3.0
+Puerto Rico, 3.1
+Kazakhstan, 3.8
+North Pacific Ocean, 3.0
+New Zealand, 3.0
+North Pacific Ocean, 3.1
+New Zealand, 3.3
+Indonesia, 3.0
+Philippines, 4.2
+Indonesia, 3.1
+Western Mediterranean, 3.0
+South Pacific Ocean, 3.3
+Afghanistan, 5.9
+Indonesia, 3.0
+USA, 4.2
+North Pacific Ocean, 3.7
+Mexico, 3.1
+Mexico, 3.8
+North Pacific Ocean, 4.9
+North Pacific Ocean, 3.7
+South Pacific Ocean, 3.5
+North Pacific Ocean, 4.6
+North Pacific Ocean, 5.0
+North Pacific Ocean, 3.1
+Costa Rica, 3.4
+North Pacific Ocean, 3.4
+Philippines, 3.5
+New Zealand, 3.8
+Indonesia, 3.9
+Mexico, 4.0
+Kyrgyzstan, 3.8
+Indonesia, 3.0
+Bolivia, 3.2
+Indonesia, 3.1
+Indonesia, 4.4
+South Pacific Ocean, 4.0
+Chile, 3.2
