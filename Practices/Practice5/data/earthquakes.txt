@@ -4,7 +4,6 @@ Colombia, 4.1
 Chile, 3.6
 Afghanistan, 3.9
 Mexico, 3.4
-Mexico, 3.3
 Costa Rica, 3.6
 North Pacific Ocean, 4.1
 Turkey, 3.1
